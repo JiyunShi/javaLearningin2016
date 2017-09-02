@@ -1,14 +1,18 @@
-# Java Learning by making a small game.
+# Java Practice by making this small tank game.
 This is the repository for my java practice. 
 A simple Tank game by using Java for study purpose. 
 
-## Instructions
+## Get Started
+
+1. Get the repository from github
+2. import the folder to Eclipse as a new project
+3. run the application 
 
 
-1. The app is written using Eclipse, can be run in eclipse
+## If meet Resource Already Exists on Disk Error in Eclipse
 
-2. or Install Java, run $ java TankClient under directory runnable
+1. Delete the bin folder under the project
+2. create a new empty bin folder
+3. Click Porject => Clean in eclipse then run the application again.  
 
 
-## Contact
-You can reach me through [my email address](brightnk@outlook.com). 
